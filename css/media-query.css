@@ -1,0 +1,159 @@
+/* For Mini Laptops */
+@media screen and (max-width: 1280px) and (min-width: 1025px) {
+}
+/* For Ipad Pro */
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+  .banner h1 {
+    font-size: 38px;
+  }
+  .banner h3 {
+    font-size: 20px;
+  }
+  .banner p {
+    font-size: 16px;
+  }
+  .toolbox-heading span {
+    font-size: 30px;
+  }
+  .code-card-blue h5 {
+    font-size: 20px;
+  }
+  .code-card-blue h3 {
+    font-size: 20px;
+  }
+  .code-card-blue p {
+    font-size: 16px;
+  }
+  .price-section-blue p {
+    font-size: 20px;
+  }
+  .code-card-white h5 {
+    font-size: 20px;
+  }
+  .code-card-white h3 {
+    font-size: 20px;
+  }
+  .code-card-white p {
+    font-size: 16px;
+  }
+  .price-section-white p {
+    font-size: 20px;
+  }
+  .custom-card h5 {
+    font-size: 20px;
+  }
+  .custom-card p {
+    font-size: 16px;
+  }
+  .custom-card img {
+    height: 200px;
+  }
+  .footer-box p {
+    font-size: 16px;
+  }
+  .footer-menu p {
+    font-size: 16px;
+  }
+}
+/* For Ipad */
+/* @media screen and (max-width: 991px) and (min-width: 768px) {
+} */
+/* For Mobile Screens */
+@media screen and (max-width: 767px) {
+  .banner h1 {
+    font-size: 38px;
+  }
+  .banner h3 {
+    font-size: 30px;
+  }
+  .banner p {
+    font-size: 20px;
+  }
+  .toolbox-heading span {
+    font-size: 30px;
+  }
+  .code-card-blue h5 {
+    font-size: 30px;
+  }
+  .code-card-blue h3 {
+    font-size: 30px;
+  }
+  .code-card-blue p {
+    font-size: 20px;
+  }
+  .price-section-blue p {
+    font-size: 30px;
+  }
+  .code-card-white h5 {
+    font-size: 30px;
+  }
+  .code-card-white h3 {
+    font-size: 30px;
+  }
+  .code-card-white p {
+    font-size: 20px;
+  }
+  .price-section-white p {
+    font-size: 30px;
+  }
+  .custom-card h5 {
+    font-size: 30px;
+  }
+  .custom-card p {
+    font-size: 20px;
+  }
+}
+/* For Mobile Screens */
+@media screen and (max-width: 300px) {
+  .header .navbar-brand {
+    font-size: 14px;
+  }
+  .banner h1 {
+    font-size: 35px;
+  }
+  .banner h3 {
+    font-size: 25px;
+  }
+  .banner p {
+    font-size: 18px;
+  }
+  .toolbox-heading span {
+    font-size: 23px;
+  }
+  .code-card-blue h5 {
+    font-size: 25px;
+  }
+  .code-card-blue h3 {
+    font-size: 25px;
+  }
+  .code-card-blue p {
+    font-size: 18px;
+  }
+  .price-section-blue p {
+    font-size: 25px;
+  }
+  .code-card-white h5 {
+    font-size: 25px;
+  }
+  .code-card-white h3 {
+    font-size: 25px;
+  }
+  .code-card-white p {
+    font-size: 18px;
+  }
+  .price-section-white p {
+    font-size: 25px;
+  }
+  .custom-card h5 {
+    font-size: 25px;
+  }
+  .custom-card p {
+    font-size: 18px;
+  }
+  .footer-box p {
+    font-size: 16px;
+  }
+  .footer-menu p {
+    font-size: 16px;
+  }
+}
